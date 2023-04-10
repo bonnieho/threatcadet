@@ -1,0 +1,3 @@
+[submodule "threatcadet"]
+	path = threatcadet
+	url = https://github.com/bonnieho/threatcadet
