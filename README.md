@@ -7,7 +7,9 @@ Published site: [https://bonnieho.github.io/threatcadet/](https://bonnieho.githu
 
 This was an exercise to become familiar with storyboarding a basic game using the Twine application. 'Passages' were created representing individual pages (much like slides in PowerPoint), and each of those pages were linked together using hyperlinks. Conditional statements were built in so the game was less linear.
 
+The following diagram illustrates the layout and relationships between passages as developed in Twine:
 
+![threatcadet_Twine](images/threatcadet_Twine.png)
 
 - - - 
 
