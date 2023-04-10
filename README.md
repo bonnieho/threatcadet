@@ -1,11 +1,11 @@
-# threatcadet *This is a Twine-generated proof-of-concept for a game-based learning project.*
+# threatcadet 
+*This is a Twine-generated proof-of-concept for a game-based learning project.*
 
-Published site: [https://bonnieho.github.io/threatcadet/](https://bonnieho.github.io/threatcadet)
+Published site: [https://bonnieho.github.io/threatcadet/](https://bonnieho.github.io/threatcadet/index.html)
 
 ## Overview
 
 This was an exercise to become familiar with storyboarding a basic game using the Twine application. 'Passages' were created representing individual pages (much like slides in PowerPoint), and each of those pages were linked together using hyperlinks. Conditional statements were built in so the game was less linear.
-
 
 
 
@@ -18,7 +18,7 @@ The premise is that the player/student has enlisted as a candidate in a Cybersec
 
 The following diagram illustrates the linear flow that the exercise is based on and includes the aforementioned conditional statements:
 
-![threatcadet_flowchart](images/threatcadet_flowchart.png)
+![threatcadet_flow](images/threatcadet_flow.png)
 
 
 - - - 
